@@ -1,51 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2d7913ec-81a7-4402-9e67-6b01ccca15ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gatsby-starter-forty.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/atom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/aws.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/bg1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/bitbucket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/docker.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/gatsby-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/javascript.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/jira.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/laravel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/mongodb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/mysql.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/php.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/postgresql.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/python.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/react-native.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/react.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/symfony.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/vuejs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/yii.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scss/_custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Expertise.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/HeaderName.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ImageThumb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/banner.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/images/website-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/website-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/scss/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Banner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Banner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BannerLanding.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BannerLanding.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-    </list>
+    <list default="true" id="2d7913ec-81a7-4402-9e67-6b01ccca15ae" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,12 +169,12 @@
       <workItem from="1569563581417" duration="37000" />
       <workItem from="1569595662617" duration="9799000" />
       <workItem from="1569647104512" duration="12000" />
-      <workItem from="1569689233536" duration="7239000" />
+      <workItem from="1569689233536" duration="7486000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23014000" />
+    <option name="totallyTimeSpent" value="23261000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="-4" width="1323" height="772" extended-state="6" />
@@ -405,6 +361,13 @@
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
