@@ -2,8 +2,153 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d7913ec-81a7-4402-9e67-6b01ccca15ae" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gatsby-starter-forty.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-ssr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-d86a05f551dcc5680018.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/app-d86a05f551dcc5680018.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/chunk-map.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/commons-28f17b560c57d6c886aa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/commons-28f17b560c57d6c886aa.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/commons.b04b83aacd03782dfc08.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-gatsby-plugin-offline-app-shell-js-9541c44bc45c95028d9a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---node-modules-gatsby-plugin-offline-app-shell-js-9541c44bc45c95028d9a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-6047c0c9477d22365e0a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-404-js-6047c0c9477d22365e0a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-about-js-373470a7c5aa758ddfe0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-about-js-373470a7c5aa758ddfe0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-js-3e7d0239a56df350b578.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-contact-js-3e7d0239a56df350b578.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-elements-js-a4967a3618c8b6f87c42.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-elements-js-a4967a3618c8b6f87c42.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-generic-js-a381c48eb863d4bc62fd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-generic-js-a381c48eb863d4bc62fd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-64df4e3242cf0f6fad38.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-index-js-64df4e3242cf0f6fad38.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-landing-js-e925bacf9ca00dc9edd4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/component---src-pages-landing-js-e925bacf9ca00dc9edd4.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contact/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/elements/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/generic/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/icon-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/icon-256x256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/icon-384x384.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/icon-48x48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/icon-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/icons/icon-96x96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/idb-keyval-iife.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/landing/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/offline-plugin-app-shell-fallback/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/404.html/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/404/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/about/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/contact/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/dev-404-page/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/elements/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/generic/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/index/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/landing/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/page-data/offline-plugin-app-shell-fallback/page-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/banner-4d1ddf65876461ee17280ee5a34af2fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/fontawesome-webfont-674f50d287a8c48dc19ba404d20fe713.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/fontawesome-webfont-912ec66d7572ff821749319396470bde.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/fontawesome-webfont-af7ae505a9eed503f8b8e6982036873e.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/fontawesome-webfont-b06871f281fee6b241d60582ae9369b9.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/fontawesome-webfont-fee66e712a8a08eef5805a46892932ad.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/pic01-f7c500d0c7ce97f4fa08f6f797eaf142.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/pic02-40a772a08cf02ce5a485b7290fa9d8dc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/pic03-3677838948c068ce88d237eaea766a51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/pic04-e2db96cd5eec25ebe26cb0525e9589d6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/pic05-d82e61241e70622b517cab61e99a61ee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/pic06-05653d205a36da91b3161519999f69c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/pic08-4c3ce95d53bcf4f4e5c3079df9c3e543.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/pic09-d59e4b49832baeb9c62a7a9d6c070f8c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/pic10-fc2217a3259dbe4bf90380771114f39c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/static/pic11-d9e39c8bf987cfe48a7aff0b47169898.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-40ad2ba8f4e91ba6f05f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack-runtime-40ad2ba8f4e91ba6f05f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webpack.stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-background-sync.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-background-sync.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-background-sync.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-background-sync.prod.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-broadcast-update.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-broadcast-update.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-broadcast-update.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-broadcast-update.prod.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-cacheable-response.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-cacheable-response.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-cacheable-response.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-cacheable-response.prod.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-core.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-core.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-core.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-core.prod.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-expiration.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-expiration.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-expiration.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-expiration.prod.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-navigation-preload.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-navigation-preload.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-navigation-preload.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-navigation-preload.prod.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-offline-ga.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-offline-ga.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-offline-ga.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-offline-ga.prod.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-precaching.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-precaching.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-precaching.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-precaching.prod.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-range-requests.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-range-requests.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-range-requests.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-range-requests.prod.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-routing.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-routing.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-routing.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-routing.prod.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-strategies.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-strategies.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-strategies.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-strategies.prod.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-streams.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-streams.dev.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-streams.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-streams.prod.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-sw.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-sw.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-window.dev.es5.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-window.dev.es5.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-window.dev.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-window.dev.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-window.dev.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-window.dev.umd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-window.prod.es5.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-window.prod.es5.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-window.prod.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-window.prod.mjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-window.prod.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/workbox-v4.3.1/workbox-window.prod.umd.js.map" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +161,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            <state relative-caret-position="144">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -159,7 +304,7 @@
       <workItem from="1569563581417" duration="37000" />
       <workItem from="1569595662617" duration="9799000" />
       <workItem from="1569647104512" duration="12000" />
-      <workItem from="1569689233536" duration="8368000" />
+      <workItem from="1569689233536" duration="8832000" />
     </task>
     <task id="LOCAL-00001" summary="Merge branch 'master' of https://github.com/akshaypjoshi/akshaypjoshi.github.io&#10;&#10;# Conflicts:&#10;#&#9;README.md">
       <created>1569699824625</created>
@@ -172,13 +317,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24143000" />
+    <option name="totallyTimeSpent" value="24607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="43" y="-4" width="1323" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26155052" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26155052" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -190,7 +335,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.23100775" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.7023256" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.79379845" />
@@ -369,8 +514,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>

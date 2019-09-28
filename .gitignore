@@ -6,13 +6,4 @@ package-lock.json
 yarn.lock
 
 # Build directory
-/src
-gatsby-browser
-gatsby-config
-gatsby-node
-gatsby-ssr
-LICENSE
-package.json
-.prettierrc
-
 .DS_Store
